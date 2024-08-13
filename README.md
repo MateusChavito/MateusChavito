@@ -2,6 +2,10 @@
 
 ###
 
+![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
+###
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -33,8 +37,5 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/906kgp.gif"  />
 
-###
-
-![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
 ###
 
